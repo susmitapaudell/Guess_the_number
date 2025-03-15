@@ -37,7 +37,7 @@ int main(){
     ran = rand() %100+1;
 
     int num;
-    cout << "\n***enter any number (guess)*** \n";
+    cout << "\n***enter any number from 1 to 100 (guess)*** \n";
     cin >> num;
 
     int b;
